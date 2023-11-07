@@ -18,7 +18,6 @@
   <img alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/></a>
 </p>
 <h3>Toy projects</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seodoha)](https://github.com/anuraghazra/github-readme-stats)
 <table>
   <thead align="center">
     <tr border: none;>
@@ -31,17 +30,28 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/seodoha/g99-front"><b>지구를 구하라(React toy project)</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/seodoha/g99-front?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/seodoha/g99-front?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/seodoha/g99-front?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/seodoha/g99-front?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/g99-project/g99-front.git"><b>지구를 구하라(React toy project)</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/g99-project/g99-front?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/g99-project/g99-front?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/g99-project/g99-front?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/g99-project/g99-front?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/seodoha/vue-kiosk.git"><b>키오스크 by Vue(Vue toy project)</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/seodoha/vue-kiosk?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/seodoha/vue-kiosk?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/seodoha/vue-kiosk?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/seodoha/vue-kiosk?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
+<h3>My status</h3>
 
-<h3>Where to find me</h3>
+![seodoha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seodoha&show_icons=true&count_private=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seodoha&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+<h3>Contact Me</h3>
 <p>
   <a href="https://github.com/seodoha" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://www.notion.so/9312f9df2feb4c7ca55b844828490791" target="_blank"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000?&style=for-the-badge&logo=notion&logoColor=white" /></a>
 </p>
+
