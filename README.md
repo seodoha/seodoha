@@ -45,7 +45,7 @@
     </tr>
   </tbody>
 </table>
-<h3>My status</h3>
+<h3>Github Stats</h3>
 
 ![seodoha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seodoha&show_icons=true&count_private=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seodoha&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
