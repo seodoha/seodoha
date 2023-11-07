@@ -18,7 +18,7 @@
   <img alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/></a>
 </p>
 <h3>Toy projects</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seodoha)](https://github.com/anuraghazra/github-readme-stats)
 <table>
   <thead align="center">
     <tr border: none;>
