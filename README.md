@@ -17,7 +17,7 @@
   <img alt="Vuex" src="https://img.shields.io/badge/Vuex-4FC08D?style=flat-square&logo=vuex&logoColor=white"/></a>
   <img alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/></a>
 </p>
-<h3>Toy projects</h3>
+<!-- <h3>Toy projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -44,7 +44,7 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/seodoha/vue-kiosk?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
-</table>
+</table> -->
 <h3>Github Stats</h3>
 
 ![seodoha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seodoha&show_icons=true&count_private=true&theme=cobalt)
