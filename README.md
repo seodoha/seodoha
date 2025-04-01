@@ -45,13 +45,4 @@
     </tr>
   </tbody>
 </table> -->
-<h3>Github Stats</h3>
-
-![seodoha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seodoha&show_icons=true&count_private=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seodoha&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-<h3>Contact Me</h3>
-<p>
-  <a href="https://github.com/seodoha" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://www.notion.so/9312f9df2feb4c7ca55b844828490791" target="_blank"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000?&style=for-the-badge&logo=notion&logoColor=white" /></a>
-</p>
 
